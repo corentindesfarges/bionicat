@@ -10,7 +10,13 @@ If you want to do the same installation, please follow [this guide](https://docs
 
 ## Tools
 
-Debugging tools will be available in the `tools` folder.
+Debugging tools are available in the `tools` folder.
+
+### Mechanics
+
+- motors.py : makes the two motors run forward and then backward
+- reset.py : resets the main controller
+- servo.py : moves the selected servo motor to the requested angle
 
 ## Launching
 
