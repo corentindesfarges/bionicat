@@ -23,6 +23,10 @@ Debugging tools are available in the `tools` folder.
 - speaker.py : reads the selected text using TTS
 - sing.py : plays the MP3 file passed in parameter
 
+### Sensors
+
+- distance.py : uses the distance sensor, and emits a faster and faster sound signal when an obstacle is approaching
+
 ## Launching
 
 ### Server
