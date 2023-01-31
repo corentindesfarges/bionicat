@@ -18,6 +18,11 @@ Debugging tools are available in the `tools` folder.
 - reset.py : resets the main controller
 - servo.py : moves the selected servo motor to the requested angle
 
+### Audio
+
+- speaker.py : reads the selected text using TTS
+- sing.py : plays the MP3 file passed in parameter
+
 ## Launching
 
 ### Server
